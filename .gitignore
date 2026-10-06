@@ -1,0 +1,23 @@
+# Ignore build outputs
+**/target/
+**/build/
+**/.gradle/
+**/.idea/
+**/.vscode/
+**/.classpath
+**/.project
+**/.settings/
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Node
+node_modules/
+coverage/
+
+dist/
+
+# Local env
+.env
+.env.*
